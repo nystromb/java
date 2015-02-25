@@ -10,5 +10,8 @@ Recursively lists all files and directories starting at the given root. When it'
 
 EvaluatePostFix.java:
 
+This program will evalute the result of a postfix expression. 
 
-ConvertPostfix.java
+ConvertPostfix.java:
+
+Converts an infix expression (Such as: 1+(2+4) ) to a postfix expression (the previous example would be evaluated as: '124++' ). 
